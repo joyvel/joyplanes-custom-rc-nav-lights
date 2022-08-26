@@ -1,4 +1,10 @@
-# TODO: Title/Board/Product Name
+# Joyplanes light navigation system for RC airplanes and UAV's in general
+Fatures: 
+1. Completely customizable timing of flash patterns for independent channels.
+2. Control your lights from your transmitter, switch them on or off, change modes, etc.
+3. Change modes and customize timing by using built-in buttons and potentiometer.
+4. x4 light outputs, strobe, beacon, auxiliary 1 and auxiliary 2, and 2 PWM inputs from the receiver.
+5. Opensource code for you to furder customize the system to specific needs.
 
 # Getting Started
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
