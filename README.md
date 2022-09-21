@@ -1,4 +1,4 @@
-# Joyplanes' navigation lights system for RC airplanes and UAV's in general
+# Joylight - a navigation lights system for RC airplanes and UAV's in general
 Fatures: 
 1. Completely customizable timing of flash patterns for independent channels.
 2. Control your lights from your transmitter, switch them on or off, change modes, etc.
